@@ -1,2 +1,5 @@
 # prost
-Run a pre or post build job after or before building a project  from VS20XX with a tool
+## Run a simple job over a tool while building a project from VS20XX
+
+I want run a job while building a project from VS20XX with a installed VS-Tool.
+ 
